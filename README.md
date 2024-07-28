@@ -63,7 +63,7 @@ Welcome to **Boundless-Books**, a modern and user-friendly bookstore application
 5. **Start the Server**
 
    ```sh
-   npm start
+   npm run dev / npm start
    ```
 
 ### Frontend Setup
@@ -83,14 +83,14 @@ Welcome to **Boundless-Books**, a modern and user-friendly bookstore application
 3. **Start the React Application**
 
    ```sh
-   npm start
+    npm run dev / npm start
    ```
 
-   The application will be available at `http://localhost:3000`.
+   The application will be available at `[http://localhost:5173](http://localhost:5173/)`.
 
 ## Usage
 
-1. Open your browser and go to `http://localhost:3000`.
+1. Open your browser and go to `http://localhost:5173`.
 2. Use the interface to browse books, add new entries, edit existing ones, or delete books.
 
 ## Contributing
